@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-login-app-7987a": {
+      "hosting": {
+        "fireChat": [
+          "angular-login-app-7987a"
+        ]
+      }
+    }
+  }
+}

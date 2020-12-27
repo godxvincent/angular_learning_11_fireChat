@@ -48,3 +48,7 @@ npm install jquery
 npm install popper.js --save
 npm install bootstrap
 npm install animate.css --save
+
+
+## ** Links Firebase Version **
+https://firebaseopensource.com/projects/angular/angularfire2/
